@@ -1,0 +1,110 @@
+export const products = [
+  {
+    id: 1,
+    title: "iPhone 9",
+    price: 549,
+    images: [
+      "https://i.dummyjson.com/data/products/1/1.jpg",
+      "https://i.dummyjson.com/data/products/1/2.jpg",
+      "https://i.dummyjson.com/data/products/1/3.jpg",
+      "https://i.dummyjson.com/data/products/1/4.jpg",
+      "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+    ],
+  },
+  {
+    id: 2,
+    title: "iPhone X",
+    price: 899,
+    images: [
+      "https://i.dummyjson.com/data/products/2/1.jpg",
+      "https://i.dummyjson.com/data/products/2/2.jpg",
+      "https://i.dummyjson.com/data/products/2/3.jpg",
+      "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+    ],
+  },
+  {
+    id: 3,
+    title: "Samsung Universe 9",
+    price: 1249,
+    images: ["https://i.dummyjson.com/data/products/3/1.jpg"],
+  },
+  {
+    id: 4,
+    title: "OPPOF19",
+    price: 280,
+    images: [
+      "https://i.dummyjson.com/data/products/4/1.jpg",
+      "https://i.dummyjson.com/data/products/4/2.jpg",
+      "https://i.dummyjson.com/data/products/4/3.jpg",
+      "https://i.dummyjson.com/data/products/4/4.jpg",
+      "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+    ],
+  },
+  {
+    id: 5,
+    title: "Huawei P30",
+    price: 499,
+    images: [
+      "https://i.dummyjson.com/data/products/5/1.jpg",
+      "https://i.dummyjson.com/data/products/5/2.jpg",
+      "https://i.dummyjson.com/data/products/5/3.jpg",
+    ],
+  },
+  {
+    id: 6,
+    title: "MacBook Pro",
+    price: 1749,
+    images: [
+      "https://i.dummyjson.com/data/products/6/1.png",
+      "https://i.dummyjson.com/data/products/6/2.jpg",
+      "https://i.dummyjson.com/data/products/6/3.png",
+      "https://i.dummyjson.com/data/products/6/4.jpg",
+    ],
+  },
+  {
+    id: 7,
+    title: "Samsung Galaxy Book",
+    price: 1499,
+    images: [
+      "https://i.dummyjson.com/data/products/7/1.jpg",
+      "https://i.dummyjson.com/data/products/7/2.jpg",
+      "https://i.dummyjson.com/data/products/7/3.jpg",
+      "https://i.dummyjson.com/data/products/7/thumbnail.jpg",
+    ],
+  },
+  {
+    id: 8,
+    title: "Microsoft Surface Laptop 4",
+    price: 1499,
+    images: [
+      "https://i.dummyjson.com/data/products/8/1.jpg",
+      "https://i.dummyjson.com/data/products/8/2.jpg",
+      "https://i.dummyjson.com/data/products/8/3.jpg",
+      "https://i.dummyjson.com/data/products/8/4.jpg",
+      "https://i.dummyjson.com/data/products/8/thumbnail.jpg",
+    ],
+  },
+  {
+    id: 9,
+    title: "Infinix INBOOK",
+    price: 1099,
+    images: [
+      "https://i.dummyjson.com/data/products/9/1.jpg",
+      "https://i.dummyjson.com/data/products/9/2.png",
+      "https://i.dummyjson.com/data/products/9/3.png",
+      "https://i.dummyjson.com/data/products/9/4.jpg",
+      "https://i.dummyjson.com/data/products/9/thumbnail.jpg",
+    ],
+  },
+  {
+    id: 10,
+    title: "HP Pavilion 15-DK1056WM",
+    price: 1099,
+    images: [
+      "https://i.dummyjson.com/data/products/10/1.jpg",
+      "https://i.dummyjson.com/data/products/10/2.jpg",
+      "https://i.dummyjson.com/data/products/10/3.jpg",
+      "https://i.dummyjson.com/data/products/10/thumbnail.jpeg",
+    ],
+  },
+];
